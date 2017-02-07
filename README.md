@@ -46,6 +46,6 @@ There's also the PyDev plugin that's available from the Eclipse Marketplace. It'
 
 C++: 
 * [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/neon1a). Supports Windows, macOS, and Linux.
-* [Microsoft Visual Studio](https://www.visualstudio.com/). Supports Windows, and only Windows.
+* [Microsoft Visual Studio](https://www.visualstudio.com/). Supports Windows, and only Windows. Unless you're a dedicated Windows developer, this is NOT recommended due to the sheer amount of space it needs.
 
 More programming languages will be added soon, but that will take some time. Plus, I'm busy with life, which is very unfortunate.
