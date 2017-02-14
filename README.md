@@ -1,51 +1,35 @@
 # Programming Labs
 
-WARNING: As of January 24, this repository will be forked and actively worked on from my new account, known as [@tangalbert919](https://github.com/tangalbert919). Please go there for more labs in more programming languages.
+Welcome to my new repository for all of my labs, which are written in various programming languages. Here, you can learn how to code and what each lab does from the documentation I made. Whatever programming language you want to learn, there will be a section for it (and if there isn't, just tell me and I will add it as soon as I can).
 
-Welcome to my new repository for all of my labs, where all of my labs will be stored.
+It doesn't matter if you are learning this for fun, or if programming will become your life. I am just making these labs, in hopes that people are able to learn stuff from them. I make these labs when I have the time to do it.
 
-I will make lots of labs in my life, and they will be in different programming languages (except machine code). To organize my labs, they will be sorted by programming languages (obviously), so whatever language you want to learn, the labs are there. I will document the labs so you can actually learn.
+If you're a first-time programmer, it is recommended that you learn Python or Java first. Those are the easiest languages you can learn (in my opinion) mostly because it's not complex (which is a fact). When you feel like you can do this, then you'll be ready for more complex languages like C or C++. I am not trying to influence your decisions, and I don't know how your brain works, so take what I said as advice.
 
-I don't want to influence your decisions on what programming languages you want to learn first, should you want to become a programmer or you're doing this for fun. Some of these languages are harder to learn than others, but ultimately, it depends on how your brain operates.
-
-For first time programmers, I do NOT recommend jumping into C++ first. It's not just a high-level programming language; it is a complex one that new programmers may have a hard time getting a grasp on. I do recommend trying an easier language, so when you do jump into C++, the language won't look as complex anymore.
-
-HTML is not included in this as it stands for "Hyper Text Markup Language", therefore not exactly making it a programming language. CSS is also not included in this, since it's a "Cascading Stylesheet". If you thought HTML and CSS are programming languages, I apologize to say this, but they're not exactly programming languages at all.
-
-If you have any labs in any languages I don't have in this repository, go ahead and fork the project. Send me a pull request to add a programming language to this repository, because I just don't want to just teach you, the new or experienced programmers. I also want you to teach me some programming as well.
+If you want to be a web developer, learning HTML and CSS is required because HTML is for the website itself and CSS adds style to the website. You can learn this from [W3Schools](http://w3schools.com) or from here once I get that section up and running.
 
 ### Issues
 ------------------------------------------
-If you found any issues within these labs, please [create an issue ticket here](https://github.com/DarknesGaming/Programming-Labs/issues/new/).
+If you found any issues within these labs, please [create an issue ticket here](https://github.com/tangalbert919/Programming-Labs/issues/new/).
 
 Your ticket will not be accepted if:
 * This is an issue already resolved a long time ago.
 * This is NOT relevant to programming whatsoever.
 
-### Guidelines
+### Guidelines for pull requests
 ------------------------------------------
-When uploading new labs or adding new programming languages to the project, please make sure you follow these guidelines before making a pull request.
+When uploading new labs or adding new programming languages to the project, please make sure you follow these guidelines before making a pull request:
 
-* Absolutely NO copyrighted libraries. I'd rather not get taken down by copyright laws, and go to court.
-* The labs are documented. It can be in the code, or inside a readme text or md file.
+* Absolutely NO copyrighted libraries (unless the license for it allows distribution).
+* The labs must be documented. It can be in the code, or a text document. Power Points and Word Documents are also accepted.
 * You may NOT have labs that are obscene or create obscene stuff when run. That means anything regarding stuff that people under the 18 cannot view is strictly prohibited.
+
+I will review your pull requests before I decide on whether or not I can merge your work.
 
 ### Integrated Development Environments (IDE)
 ------------------------------------------
-These are the IDEs that you can use for programming. An IDE has ONE advantage over text editors, and that's their dedication towards the programming language you will be coding your applications in. An IDE can help you from color coding your code to showing you errors BEFORE you even compile the program for debugging.
+IDEs are basically like text editors, except they are dedicated to programming. Whatever IDE you download is dedicated to one or more languages, and are covered in the README.md files in the sections already made.
 
-Of course, if you are the kind of person who would rather code with a text editor, you can stick to the one you have, or use [Notepad++](https://notepad-plus-plus.org/). This is an open-source program that supports many, and I mean MANY programming languages that exist out there.
+If you are the kind of person who would rather code with a text editor, you can stick to the one you have, or use [Notepad++](https://notepad-plus-plus.org/). By doing this, you would be considered a hardcore programmer, but that means a lot MORE work.
 
-For those who would rather use an IDE, you can refer to the ones I recommend:
-
-Java: [Eclipse](http://eclipse.org). Supports Windows, macOS, and Linux.
-
-Python: [PyCharm](https://www.jetbrains.com/pycharm/?fromMenu). Supports Windows, macOS, and Linux.
-
-There's also the PyDev plugin that's available from the Eclipse Marketplace. It's free, but you must use the Eclipse IDE to get it.
-
-C++: 
-* [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/neon1a). Supports Windows, macOS, and Linux.
-* [Microsoft Visual Studio](https://www.visualstudio.com/). Supports Windows, and only Windows. Unless you're a dedicated Windows developer, this is NOT recommended due to the sheer amount of space it needs.
-
-More programming languages will be added soon, but that will take some time. Plus, I'm busy with life, which is very unfortunate.
+Thanks for reading this, and have fun learning how to code.
