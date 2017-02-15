@@ -1,17 +1,23 @@
 # C Labs
 --------------
-This is a programming language I'm learning for 2 reasons:
+This is a set of C Labs that I made. I'm teaching myself this language by using books and online resources (but the reliability for both is undetermined). The more famous C++ is based off of C, and it's a good idea to understand and be able to program in C before learning how to program in C++.
 
-1. It's a very useful language, especially if you're learning how to become a hacker (please be a white hat or gray hat because black hats have to constantly hide).
+C is known best for low level memory management and having a bunch of built-in libraries to aid you in better handling of memory and hardware. Its efficiency is why kernels are written in C (like the famous [Linux kernel](https://github.com/torvalds/linux)), but it gets that efficiency by requiring you to perform low-level memory management by hand. The machine will be more efficient, but makes us humans less productive.
 
-2. It's probably the only language out there that is responsible for memory management, and is not object-oriented. C++ and Objective-C are based on C, with the latter being a strict superset, but both have a layer of object-orientation.
+If you learn C++ first, it's not difficult to learn C, and vice versa. However, you are more productive the more you avoid programming in C (because we want to use our time efficiently, and C does not let you do that).
 
-This, I will learn from a book and online, so expect one lab every week or so.
+### Requirements
+----------------
+For Windows users (which is about 85% of PC users), you need to install a C compiler. Microsoft didn't think about adding that to their OS, but they bothered to add Xbox integration to Windows 10, and Windows 10 is over 10 GB large (when extracted from their ISO). To get the compiler, you need to install Cygwin, and the instructions are [here](http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/). However, if you plan on using an IDE, then it's not required (theoretically).
 
-### Background Information About C
---------------
-C is mostly used in kernels (which are used to load entire operating systems and do some memory management), but is also used as a replacement to assembly code, and to make programs (like text editors and network drivers). Some people say it's not popular anymore, up to the point where C is dead. That's actually not true, and chances are people say that because C is complex, and we live in the world where we like everything to be simple, which is why Swift is on the rise (and I mean the programming language called Swift by Apple, not the artist named "Taylor Swift", in case you're wondering).
+For Mac users, you already have a compiler, and it's called "Clang". You just need an IDE to use it.
 
-C is a difficult language to learn, so it's best to have prior programming knowledge in other languages first before learning this one, mostly so you can rip your hair out, trying to understand basic syntax.
+For Linux users, you have a bunch of compilers ready for use (GCC and G++). You can either use it from the Terminal or by using an IDE.
 
-The worst part about C is how efficient it is. For machines, it runs quickly, but for the typical human, C will mess up your time management, because you're trying to make the program written in C be fast for the machine. That's why hackers and programmers say the less time you spend programming in C, the more efficient you are.
+### IDEs for C
+----------------
+* [CLion](http://www.jetbrains.com/clion/) is a powerful and feature-rich IDE developed by [JetBrains](http://www.jetbrains.com/). You can learn more about it on their website.
+
+* [Eclipse](http://www.eclipse.org) is a powerful IDE that supports many programming languages, but you need to install the [Oracle JDK](http://www.oracle.com/technetwork/java/javase/overview/index.html) in order to use it.
+
+* Xcode is an IDE developed by Apple, and only works on macOS. It can only be found in the Mac App Store. [AppCode](http://www.jetbrains.com/objc/) is a smart IDE developed by [JetBrains](http://www.jetbrains.com), but requires Xcode for it to work.

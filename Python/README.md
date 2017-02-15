@@ -10,7 +10,13 @@ More Python labs will be added as I continue to self-teach myself this language.
 -----------------
 For Windows and Mac users, you need to install [Python](https://www.python.org) before you can start, or the IDEs listed below will not run properly. For Linux users, it is already installed to the system, but you may need to update it if you want to use the latest version of Python.
 
+If you're using Eclipse, the Python requirement still stands, but you need to download the [Oracle JDK](http://www.oracle.com/technetwork/java/javase/overview/index.html) to use it. Then you need to install PyDev, which is listed at the bottom of this document.
+
+For Linux users, go [here](https://www.java.com/en/download/help/linux_x64_install.xml) for instructions on how to install Java. 
+
 ### IDEs for Python
 -----------------
 
 * [PyCharm](http://www.jetbrains.com/pycharm/) is a powerful, feature-rich IDE developed by [JetBrains](http://jetbrains.com/). You can learn more about it at their website.
+
+* [PyDev](http://www.pydev.org/) is a plugin for Eclipse, which can be downloaded and installed from the Eclipse marketplace (which can be accessed from the IDE itself). It's free (as always), but you need to download Eclipse from [here](http://www.eclipse.org/downloads/eclipse-packages/) if you want to do that.
