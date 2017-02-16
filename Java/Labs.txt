@@ -77,3 +77,17 @@ also use switch cases to determine the color rows each circle will be drawn in.
 Lab 12 (January 18, 2017)
 We will create arrays, and display them in mean, median, and mode.
 
+Lab 13 was skipped for unknown reasons.
+
+Lab 14 (January ??, 2017)
+We will take strings, and determine whether or not the string is a palindrome.
+
+Lab 14B (January ??, 2017)
+We will concatenate, split, and find certain characters in strings.
+
+Lab 15 (February ??, 2017)
+We will learn what algorithms are, and demonstrate how it works by the use of the bubble sorting method.
+
+Lab 15B (February 14, 2017)
+We will learn more about algorithms, and the basics of linear searching with a number array.
+
