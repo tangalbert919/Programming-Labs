@@ -86,7 +86,8 @@ Lab 14B (January ??, 2017)
 We will concatenate, split, and find certain characters in strings.
 
 Lab 15 (February ??, 2017)
-We will learn what algorithms are, and demonstrate how it works by the use of the bubble sorting method.
+We will learn what algorithms are, and demonstrate how it works by the use of the bubble sorting
+method.
 
 Lab 15B (February 14, 2017)
 We will learn more about algorithms, and the basics of linear searching with a number array.

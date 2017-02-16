@@ -8,7 +8,7 @@ If you learn C++ first, it's not difficult to learn C, and vice versa. However, 
 
 ### Requirements
 ----------------
-For Windows users (which is about 85% of PC users), you need to install a C compiler. Microsoft didn't think about adding that to their OS, but they bothered to add Xbox integration to Windows 10, and Windows 10 is over 10 GB large (when extracted from their ISO). To get the compiler, you need to install Cygwin, and the instructions are [here](http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/). However, if you plan on using an IDE, then it's not required (theoretically).
+For Windows users (which is about 85% of PC users), you need to install a C compiler. If you're compiling from the command line, you need to install Cygwin, and the instructions are [here](http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/). If you're using an IDE, this isn't required (in theory, but every IDE is different).
 
 For Mac users, you already have a compiler, and it's called "Clang". You just need an IDE to use it.
 
@@ -21,3 +21,5 @@ For Linux users, you have a bunch of compilers ready for use (GCC and G++). You 
 * [Eclipse](http://www.eclipse.org) is a powerful IDE that supports many programming languages, but you need to install the [Oracle JDK](http://www.oracle.com/technetwork/java/javase/overview/index.html) in order to use it.
 
 * Xcode is an IDE developed by Apple, and only works on macOS. It can only be found in the Mac App Store. [AppCode](http://www.jetbrains.com/objc/) is a smart IDE developed by [JetBrains](http://www.jetbrains.com), but requires Xcode for it to work.
+
+* [Microsoft Visual Studio](https://www.visualstudio.com/) is an IDE developed by Microsoft, and only works on Windows (but has a preview version for Mac users). You can learn more about it on their website.
