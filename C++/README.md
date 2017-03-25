@@ -14,10 +14,16 @@ Since C++ is a superset of C, any program that was written in C is also a C++ pr
 --------------------
 For Windows users, you need a C++ compiler, but there isn't one that can be installed to the system and be usable from the command prompt (which is why the typical programmer or hacker doesn't use Windows for coding). There's 2 options: You can install [Cygwin](http://cygwin.com/) to your computer if you're going to compile programs from the command line, or you can install an IDE (which usually comes with its own compiler that you can use).
 
-For Mac and Linux users, you already have one installed. You can use it from the command line (Mac uses Clang, Linux uses GCC), or you can install an IDE, which will either use its own compiler or the one you already have installed.
+For Mac users, you need to install XCode from the Mac App Store, or just the developer tools if you're going to compile and run programs from the command line. The default compiler is Clan
+
+Linux users, you already have one installed. You can use it from the command line, or you can install an IDE, which will either use its own compiler or the one you already have installed.
 
 ### IDEs
 --------------------
 * [CLion](https://www.jetbrains.com/clion/) is a feature-rich and powerful IDE made by [JetBrains](https://www.jetbrains.com), and supports both C and C++. You can learn more about it at their website.
 
 * [Eclipse](http://eclipse.org) is a powerful IDE that supports C and C++, and is actively maintained by the community (it's open-source). However, you need to install the [Oracle JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) to use it, because the IDE is written in Java.
+
+* [Microsoft Visual Studio](https://www.visualstudio.com/) is an IDE developed by Microsoft, and only works on Windows (but has a preview version for Mac users). You can learn more about it on their website.
+
+* Xcode is an IDE only available on the Mac App Store, developed by Apple, and only works for macOS. [AppCode](https://www.jetbrains.com/objc/) is a smart IDE made by [JetBrains](https://jetbrains.com), but requires Xcode for it to work.
