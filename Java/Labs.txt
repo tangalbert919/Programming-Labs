@@ -77,18 +77,29 @@ also use switch cases to determine the color rows each circle will be drawn in.
 Lab 12 (January 18, 2017)
 We will create arrays, and display them in mean, median, and mode.
 
-Lab 13 was skipped for unknown reasons.
+Lab 14 (???, 2017)
+This is a lab I had to make from scratch. Here, we concatenate, split, and obtain certain letters
+from strings.
 
-Lab 14 (January ??, 2017)
-We will take strings, and determine whether or not the string is a palindrome.
-
-Lab 14B (January ??, 2017)
-We will concatenate, split, and find certain characters in strings.
-
-Lab 15 (February ??, 2017)
-We will learn what algorithms are, and demonstrate how it works by the use of the bubble sorting
-method.
+Lab 15 (February 13, 2017)
+We will create a bunch of bars, and sort them while understanding algorithms.
 
 Lab 15B (February 14, 2017)
-We will learn more about algorithms, and the basics of linear searching with a number array.
+We will create a number array, and then conduct a linear and binary search.
 
+Lab 16A (February 28, 2017)
+We will learn about encryptions by learning about the Dvorak keyboard, a very early version
+of encryption.
+
+Lab 16B (February 23, 2017)
+We will learn about input and output by using data files.
+
+Lab 16C (March 7, 2017)
+We will get the largest number from each line of numbers in a text file, and then write the output
+to another file.
+
+Lab 16D (March 8, 2017)
+We will calculate how much dog food a dog needs based on how much a dog weighs.
+
+Lab G1A (April 12, 2017)
+We will begin advanced graphics programming by refreshing on the Graphics class.

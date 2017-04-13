@@ -1,0 +1,5 @@
+78 33 15 456 8321 largest is: 8321
+225 10 475 223 largest is: 475
+22 39 22 45 11 19 largest is: 45
+1 2 3 4 5 6 largest is: 6
+-10 2 9 23 12 largest is: 23
