@@ -14,6 +14,6 @@ For Linux users, go [here](https://www.java.com/en/download/help/linux_x64_insta
 -------------------
 * [Eclipse](http://www.eclipse.org) is an IDE for Java and C/C++, and developed by the community. You can add plugins to it for more functionality, which can be downloaded from the Marketplace (which is included in the IDE). This is best for those who are learning Java for the first time.
 
-* [IntelliJ IDEA](http://www.jetbrains.com/idea/) is an IDE developed by [JetBrains](http://www.jetbrains.com). This IDE is feature-rich, and supports many tools and frameworks. You can learn more about it at their website.
+* [IntelliJ IDEA](http://www.jetbrains.com/idea/) is an IDE developed by [JetBrains](http://www.jetbrains.com). There's a free open-source community edition and a more professional "Ultimate" edition. Almost every IDE developed by JetBrains is based on IntelliJ, as it is the first IDE JetBrains created.
 
 * [Android Studio](https://developer.android.com/studio/index.html) is an IDE powered by the IntelliJ platform, and is dedicated for Android development. This IDE should only be used if you are developing apps for the Android platform, and is not recommended for those who are learning Java for the first time.

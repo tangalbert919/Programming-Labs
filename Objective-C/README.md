@@ -6,9 +6,7 @@ These labs are coming soon.
 --------------------
 Objective-C is a superset of C, meaning any C program you make is also an Objective-C program. It was inspired by 2 guys working at a company who wanted to implement the features from another language called Smalltalk, and maintain backwards compatibility with C. Hence, Objective-C.
 
-Objective-C is an object-oriented language, and usually, Apple developers learn this language or Swift so they can make applications for Apple devices. Objective-C++ is basically C++ and Objective-C mixed together, but that's for another day.
-
-This language is actually more COMPLEX than C and C++, which means it's harder to learn. You'll see it in the first few labs when they're released.
+Objective-C is an object-oriented language, and is typically used by Apple developers to develop applications for Apple devices. Because it's a very complex language, you should learn C, C++, or Swift before you jump into Objective-C.
 
 ### IDEs
 --------------------

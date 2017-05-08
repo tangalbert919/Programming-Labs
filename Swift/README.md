@@ -4,10 +4,10 @@ COMING SOON!!!
 
 ### Background 
 ---------------
-Swift is an [open source](https://github.com/apple/swift) programming language made by Apple, and has been in development for years. Apple developers typically learn this language to make iOS applications, and to many beginners, this is a good place to start if you want to start making your own applications for Apple.
+Swift is an [open source](https://github.com/apple/swift) programming language made by Apple, and has been in development for years. Recently, more and more developers are learning Swift to develop applications for Apple, thanks to its simplicity and friendliness to new developers.
 
-Swift is less complex than Objective-C, which is why some programmers typically learn this first. By learning Swift, it might become easier to learn Objective-C later on.
+It is usually recommended to learn Swift before learning Objective-C, which is a more complex, cruel, and downright painful variant of C.
 
 ### IDEs
 ---------------
-The only IDE that's known to work is Xcode, which is only available in the Mac App Store.
+While Xcode is the only official IDE to use Swift natively, you can only use Xcode on a macOS system (a virtual machine with macOS will work). CLion offers a plugin that allows Swift development.

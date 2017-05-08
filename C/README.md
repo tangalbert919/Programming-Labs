@@ -16,7 +16,7 @@ For Linux users, you have a bunch of compilers ready for use (GCC and G++). You 
 
 ### IDEs for C
 ----------------
-* [CLion](http://www.jetbrains.com/clion/) is a powerful and feature-rich IDE developed by [JetBrains](http://www.jetbrains.com/). You can learn more about it on their website.
+* [CLion](http://www.jetbrains.com/clion/) is a powerful and feature-rich IDE developed by [JetBrains](http://www.jetbrains.com/). This IDE is only a few years old (released in 2014), but it already has whatever you need. You can learn more about it on their website.
 
 * [Eclipse](http://www.eclipse.org) is a powerful IDE that supports many programming languages, but you need to install the [Oracle JDK](http://www.oracle.com/technetwork/java/javase/overview/index.html) in order to use it.
 
