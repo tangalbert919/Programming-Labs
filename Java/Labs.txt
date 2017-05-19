@@ -103,3 +103,6 @@ We will calculate how much dog food a dog needs based on how much a dog weighs.
 
 Lab G1A (April 12, 2017)
 We will begin advanced graphics programming by refreshing on the Graphics class.
+
+Lab G1B (April 19, 2017)
+We will draw homes in different locations by randomizing the coordinates.
